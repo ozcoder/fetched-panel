@@ -1,2 +1,2 @@
 # fetched
-Show what was fetched
+DevTools panel to show what was fetched
